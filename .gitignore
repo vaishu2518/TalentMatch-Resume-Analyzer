@@ -1,0 +1,31 @@
+Python cache files
+
+__pycache__/
+.py[cod]
+
+ Virtual environments
+
+.venv/
+venv/
+env/
+
+Local databases and user data
+
+.db
+.sqlite
+.sqlite3
+
+ Secrets
+
+.env
+.streamlit/secrets.toml
+
+Editor files
+
+.vscode/
+.idea/
+
+Operating system files
+
+.DS_Store
+Thumbs.db
